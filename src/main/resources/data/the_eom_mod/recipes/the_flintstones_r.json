@@ -1,17 +1,14 @@
 {
   "group": "the_eom_mod",
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "01"
-  ],
-  "key": {
-    "0": {
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
       "item": "the_eom_mod:flint_element"
     },
-    "1": {
+    {
       "item": "the_eom_mod:rock"
     }
-  },
+  ],
   "result": {
     "item": "the_eom_mod:the_flintstones",
     "count": 2
