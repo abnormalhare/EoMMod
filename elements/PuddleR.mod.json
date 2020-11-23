@@ -5,9 +5,9 @@
     "recipeType": "Crafting",
     "xpReward": 0.0,
     "cookingTime": 200,
-    "recipeRetstackSize": 2,
+    "recipeRetstackSize": 1,
     "group": "",
-    "recipeShapeless": true,
+    "recipeShapeless": false,
     "recipeSlots": [
       {
         "value": "CUSTOM:Water"
@@ -38,9 +38,9 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:Pond"
+      "value": "CUSTOM:Puddle"
     },
-    "name": "pond_r",
+    "name": "puddle_r",
     "namespace": "mod"
   }
 }

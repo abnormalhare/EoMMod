@@ -146,22 +146,22 @@
       "registry_name": "rock_r"
     },
     {
-      "name": "Pond",
+      "name": "Puddle",
       "type": "item",
       "sortid": 17,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pond"
+      "registry_name": "puddle"
     },
     {
-      "name": "PondR",
+      "name": "PuddleR",
       "type": "recipe",
       "sortid": 18,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pond_r"
+      "registry_name": "puddle_r"
     }
   ],
   "variable_elements": [],
@@ -173,9 +173,9 @@
       "itemGroup.tabeom_mod": "EoM Mod",
       "item.the_eom_mod.earth": "Earth",
       "item.the_eom_mod.fire": "Fire",
+      "item.the_eom_mod.puddle": "Puddle",
       "item.the_eom_mod.air": "Air",
       "item.the_eom_mod.lava": "Lava",
-      "item.the_eom_mod.pond": "Pond",
       "item.the_eom_mod.rock": "Rock"
     }
   },
@@ -192,6 +192,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.theeommod",
     "lockBaseModFiles": false
   },

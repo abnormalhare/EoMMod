@@ -12,10 +12,10 @@ import net.minecraft.block.BlockState;
 import net.mcreator.theeommod.TheEomModModElements;
 
 @TheEomModModElements.ModElement.Tag
-public class PondItem extends TheEomModModElements.ModElement {
-	@ObjectHolder("the_eom_mod:pond")
+public class PuddleItem extends TheEomModModElements.ModElement {
+	@ObjectHolder("the_eom_mod:puddle")
 	public static final Item block = null;
-	public PondItem(TheEomModModElements instance) {
+	public PuddleItem(TheEomModModElements instance) {
 		super(instance, 17);
 	}
 
@@ -26,7 +26,7 @@ public class PondItem extends TheEomModModElements.ModElement {
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
 			super(new Item.Properties().group(ItemGroup.MISC).maxStackSize(64).rarity(Rarity.COMMON));
-			setRegistryName("pond");
+			setRegistryName("puddle");
 		}
 
 		@Override
