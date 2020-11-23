@@ -1,14 +1,11 @@
 {
   "group": "the_eom_mod",
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "0"
-  ],
-  "key": {
-    "0": {
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
       "tag": "forge:stained_glass"
     }
-  },
+  ],
   "result": {
     "item": "the_eom_mod:air",
     "count": 1

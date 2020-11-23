@@ -5,15 +5,15 @@
     "recipeType": "Crafting",
     "xpReward": 0.0,
     "cookingTime": 200,
-    "recipeRetstackSize": 1,
+    "recipeRetstackSize": 2,
     "group": "",
     "recipeShapeless": true,
     "recipeSlots": [
       {
-        "value": "Blocks.STAINED_GLASS"
+        "value": "CUSTOM:Water"
       },
       {
-        "value": ""
+        "value": "CUSTOM:Water"
       },
       {
         "value": ""
@@ -38,9 +38,9 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:Air"
+      "value": "CUSTOM:Pond"
     },
-    "name": "air_r_2",
+    "name": "pond_r",
     "namespace": "mod"
   }
 }
