@@ -126,6 +126,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "lava_r"
+    },
+    {
+      "name": "Rock",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rock"
+    },
+    {
+      "name": "RockR",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rock_r"
     }
   ],
   "variable_elements": [],
@@ -138,7 +156,8 @@
       "item.the_eom_mod.earth": "Earth",
       "item.the_eom_mod.fire": "Fire",
       "item.the_eom_mod.air": "Air",
-      "item.the_eom_mod.lava": "Lava"
+      "item.the_eom_mod.lava": "Lava",
+      "item.the_eom_mod.rock": "Rock"
     }
   },
   "workspaceSettings": {
