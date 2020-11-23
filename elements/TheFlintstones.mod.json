@@ -8,7 +8,7 @@
     "name": "The Flintstones",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "MISC"
+      "value": "CUSTOM:EomMod"
     },
     "stackSize": 64,
     "enchantability": 0,
