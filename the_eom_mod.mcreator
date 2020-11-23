@@ -108,6 +108,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "air_r_2"
+    },
+    {
+      "name": "Lava",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lava"
+    },
+    {
+      "name": "LavaR",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lava_r"
     }
   ],
   "variable_elements": [],
@@ -119,7 +137,8 @@
       "itemGroup.tabeom_mod": "EoM Mod",
       "item.the_eom_mod.earth": "Earth",
       "item.the_eom_mod.fire": "Fire",
-      "item.the_eom_mod.air": "Air"
+      "item.the_eom_mod.air": "Air",
+      "item.the_eom_mod.lava": "Lava"
     }
   },
   "workspaceSettings": {
