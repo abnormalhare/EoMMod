@@ -216,6 +216,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "the_flintstones_r"
+    },
+    {
+      "name": "Heat",
+      "type": "item",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heat"
+    },
+    {
+      "name": "HeatR",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heat_r"
     }
   ],
   "variable_elements": [],
@@ -226,6 +244,7 @@
       "item.the_eom_mod.dust": "Dust",
       "itemGroup.tabeom_mod": "EoM Mod",
       "item.the_eom_mod.fire": "Fire",
+      "item.the_eom_mod.heat": "Heat",
       "item.the_eom_mod.air": "Air",
       "item.the_eom_mod.flint_element": "Flint Element",
       "item.the_eom_mod.the_flintstones": "The Flintstones",
