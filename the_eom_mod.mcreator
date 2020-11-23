@@ -1,0 +1,142 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Air",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "air"
+    },
+    {
+      "name": "EomMod",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eom_mod"
+    },
+    {
+      "name": "Earth",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "earth"
+    },
+    {
+      "name": "Fire",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fire"
+    },
+    {
+      "name": "Water",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "water"
+    },
+    {
+      "name": "Dust",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dust"
+    },
+    {
+      "name": "DustR",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dust_r"
+    },
+    {
+      "name": "AirR",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "air_r"
+    },
+    {
+      "name": "EarthR",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "earth_r"
+    },
+    {
+      "name": "FireR",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fire_r"
+    },
+    {
+      "name": "WaterR",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "water_r"
+    },
+    {
+      "name": "AirR2",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "air_r_2"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.the_eom_mod.water": "Water",
+      "item.the_eom_mod.dust": "Dust",
+      "itemGroup.tabeom_mod": "EoM Mod",
+      "item.the_eom_mod.earth": "Earth",
+      "item.the_eom_mod.fire": "Fire",
+      "item.the_eom_mod.air": "Air"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "the_eom_mod",
+    "modName": "The EoM Mod",
+    "version": "1.0.0",
+    "author": "abnor, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.theeommod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}
