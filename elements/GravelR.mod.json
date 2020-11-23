@@ -10,10 +10,10 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "CUSTOM:Water"
+        "value": "CUSTOM:Rock"
       },
       {
-        "value": "CUSTOM:Water"
+        "value": "CUSTOM:Rock"
       },
       {
         "value": ""
@@ -38,9 +38,9 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:Puddle"
+      "value": "CUSTOM:GravelElement"
     },
-    "name": "puddle_r",
+    "name": "gravel_r",
     "namespace": "mod"
   }
 }

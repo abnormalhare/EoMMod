@@ -162,6 +162,78 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "puddle_r"
+    },
+    {
+      "name": "TheFlintstones",
+      "type": "item",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_flintstones"
+    },
+    {
+      "name": "FlintElement",
+      "type": "item",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flint_element"
+    },
+    {
+      "name": "GravelElement",
+      "type": "item",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gravel_element"
+    },
+    {
+      "name": "GravelR",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gravel_r"
+    },
+    {
+      "name": "FlintR",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flint_r"
+    },
+    {
+      "name": "TheFlintstonesR",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_flintstones_r"
+    },
+    {
+      "name": "Heat",
+      "type": "item",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heat"
+    },
+    {
+      "name": "HeatR",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heat_r"
     }
   ],
   "variable_elements": [],
@@ -171,12 +243,16 @@
       "item.the_eom_mod.water": "Water",
       "item.the_eom_mod.dust": "Dust",
       "itemGroup.tabeom_mod": "EoM Mod",
-      "item.the_eom_mod.earth": "Earth",
       "item.the_eom_mod.fire": "Fire",
-      "item.the_eom_mod.puddle": "Puddle",
+      "item.the_eom_mod.heat": "Heat",
       "item.the_eom_mod.air": "Air",
+      "item.the_eom_mod.flint_element": "Flint Element",
+      "item.the_eom_mod.the_flintstones": "The Flintstones",
+      "item.the_eom_mod.earth": "Earth",
+      "item.the_eom_mod.puddle": "Puddle",
       "item.the_eom_mod.lava": "Lava",
-      "item.the_eom_mod.rock": "Rock"
+      "item.the_eom_mod.rock": "Rock",
+      "item.the_eom_mod.gravel_element": "Gravel Element"
     }
   },
   "workspaceSettings": {
