@@ -254,22 +254,13 @@
       "registry_name": "sand_r"
     },
     {
-      "name": "Gravity",
-      "type": "item",
-      "sortid": 29,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "gravity"
-    },
-    {
-      "name": "GravityR",
+      "name": "PressureR",
       "type": "recipe",
-      "sortid": 30,
+      "sortid": 32,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "gravity_r"
+      "registry_name": "pressure_r"
     },
     {
       "name": "Pressure",
@@ -281,13 +272,22 @@
       "registry_name": "pressure"
     },
     {
-      "name": "PressureR",
+      "name": "GravityR",
       "type": "recipe",
-      "sortid": 32,
+      "sortid": 30,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pressure_r"
+      "registry_name": "gravity_r"
+    },
+    {
+      "name": "Gravity",
+      "type": "item",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gravity"
     }
   ],
   "variable_elements": [],

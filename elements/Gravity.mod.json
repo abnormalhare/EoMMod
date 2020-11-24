@@ -8,7 +8,7 @@
     "name": "Gravity",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "CUSTOM:EomMod"
+      "value": "MISC"
     },
     "stackSize": 64,
     "enchantability": 0,
