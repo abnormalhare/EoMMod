@@ -306,6 +306,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "wind_r"
+    },
+    {
+      "name": "Energy",
+      "type": "item",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "energy"
+    },
+    {
+      "name": "EnergyR",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "energy_r"
     }
   ],
   "variable_elements": [],
@@ -320,6 +338,7 @@
       "item.the_eom_mod.air": "Air",
       "item.the_eom_mod.flint_element": "Flint Element",
       "item.the_eom_mod.the_flintstones": "The Flintstones",
+      "item.the_eom_mod.energy": "Energy",
       "item.the_eom_mod.pressure": "Pressure",
       "item.the_eom_mod.earth": "Earth",
       "item.the_eom_mod.wind": "Wind",
