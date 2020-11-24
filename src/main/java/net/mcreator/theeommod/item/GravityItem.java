@@ -1,26 +1,31 @@
 
 package net.mcreator.theeommod.item;
 
+import net.minecraftforge.registries.ObjectHolder;
+
+import net.minecraft.item.Rarity;
+import net.minecraft.item.ItemStack;
+import net.minecraft.item.Item;
+import net.minecraft.block.BlockState;
+
+import net.mcreator.theeommod.itemgroup.EomModItemGroup;
+import net.mcreator.theeommod.TheEomModModElements;
+
 @TheEomModModElements.ModElement.Tag
 public class GravityItem extends TheEomModModElements.ModElement {
-
 	@ObjectHolder("the_eom_mod:gravity")
 	public static final Item block = null;
-
 	public GravityItem(TheEomModModElements instance) {
 		super(instance, 29);
-
 	}
 
 	@Override
 	public void initElements() {
 		elements.items.add(() -> new ItemCustom());
 	}
-
 	public static class ItemCustom extends Item {
-
 		public ItemCustom() {
-			super(new Item.Properties().group(ItemGroup.MISC).maxStackSize(64).rarity(Rarity.COMMON));
+			super(new Item.Properties().group(EomModItemGroup.tab).maxStackSize(64).rarity(Rarity.COMMON));
 			setRegistryName("gravity");
 		}
 
@@ -38,7 +43,5 @@ public class GravityItem extends TheEomModModElements.ModElement {
 		public float getDestroySpeed(ItemStack par1ItemStack, BlockState par2Block) {
 			return 1F;
 		}
-
 	}
-
 }
