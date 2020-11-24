@@ -252,6 +252,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "sand_r"
+    },
+    {
+      "name": "Gravity",
+      "type": "item",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gravity"
+    },
+    {
+      "name": "GravityR",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gravity_r"
     }
   ],
   "variable_elements": [],
@@ -269,6 +287,7 @@
       "item.the_eom_mod.earth": "Earth",
       "item.the_eom_mod.puddle": "Puddle",
       "item.the_eom_mod.lava": "Lava",
+      "item.the_eom_mod.gravity": "Gravity",
       "item.the_eom_mod.rock": "Rock",
       "item.the_eom_mod.gravel_element": "Gravel Element",
       "item.the_eom_mod.sand_element": "Sand Element"
