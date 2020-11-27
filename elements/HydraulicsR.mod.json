@@ -10,10 +10,10 @@
     "recipeShapeless": true,
     "recipeSlots": [
       {
-        "value": "CUSTOM:Air"
+        "value": "CUSTOM:Pressure"
       },
       {
-        "value": "CUSTOM:Fire"
+        "value": "CUSTOM:Water"
       },
       {
         "value": ""
@@ -38,9 +38,9 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:Energy"
+      "value": "CUSTOM:Hydraulics"
     },
-    "name": "energy_r",
+    "name": "hydraulics_r",
     "namespace": "mod"
   }
 }

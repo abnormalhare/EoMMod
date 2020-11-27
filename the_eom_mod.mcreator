@@ -324,6 +324,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "energy_r"
+    },
+    {
+      "name": "Hydraulics",
+      "type": "item",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hydraulics"
+    },
+    {
+      "name": "HydraulicsR",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hydraulics_r"
     }
   ],
   "variable_elements": [],
@@ -337,6 +355,7 @@
       "item.the_eom_mod.heat": "Heat",
       "item.the_eom_mod.air": "Air",
       "item.the_eom_mod.flint_element": "Flint Element",
+      "item.the_eom_mod.hydraulics": "Hydraulics",
       "item.the_eom_mod.the_flintstones": "The Flintstones",
       "item.the_eom_mod.energy": "Energy",
       "item.the_eom_mod.pressure": "Pressure",

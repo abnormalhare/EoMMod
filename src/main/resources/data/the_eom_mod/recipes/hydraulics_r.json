@@ -3,14 +3,14 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "the_eom_mod:air"
+      "item": "the_eom_mod:pressure"
     },
     {
-      "item": "the_eom_mod:fire"
+      "item": "the_eom_mod:water"
     }
   ],
   "result": {
-    "item": "the_eom_mod:energy",
+    "item": "the_eom_mod:hydraulics",
     "count": 2
   }
 }
