@@ -10,10 +10,10 @@
     "recipeShapeless": true,
     "recipeSlots": [
       {
-        "value": "CUSTOM:Fire"
+        "value": "CUSTOM:Earth"
       },
       {
-        "value": "CUSTOM:Water"
+        "value": "CUSTOM:Energy"
       },
       {
         "value": ""
@@ -38,9 +38,9 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:Steam"
+      "value": "CUSTOM:Earthquake"
     },
-    "name": "steam_r",
+    "name": "earthquake_r",
     "namespace": "mod"
   }
 }

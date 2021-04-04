@@ -378,6 +378,42 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "cold_r"
+    },
+    {
+      "name": "Elements",
+      "type": "item",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "elements"
+    },
+    {
+      "name": "ElementsR",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "elements_r"
+    },
+    {
+      "name": "Earthquake",
+      "type": "item",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "earthquake"
+    },
+    {
+      "name": "EarthquakeR",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "earthquake_r"
     }
   ],
   "variable_elements": [],
@@ -390,6 +426,7 @@
       "item.the_eom_mod.fire": "Fire",
       "item.the_eom_mod.heat": "Heat",
       "item.the_eom_mod.air": "Air",
+      "item.the_eom_mod.elements": "Elements",
       "item.the_eom_mod.flint_element": "Flint Element",
       "item.the_eom_mod.hydraulics": "Hydraulics",
       "item.the_eom_mod.steam": "Steam",
@@ -399,6 +436,7 @@
       "item.the_eom_mod.earth": "Earth",
       "item.the_eom_mod.wind": "Wind",
       "item.the_eom_mod.puddle": "Puddle",
+      "item.the_eom_mod.earthquake": "Earthquake",
       "item.the_eom_mod.lava": "Lava",
       "item.the_eom_mod.cold": "Cold",
       "item.the_eom_mod.gravity": "Gravity",

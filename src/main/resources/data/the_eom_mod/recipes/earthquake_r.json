@@ -3,14 +3,14 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "the_eom_mod:fire"
+      "item": "the_eom_mod:earth"
     },
     {
-      "item": "the_eom_mod:water"
+      "item": "the_eom_mod:energy"
     }
   ],
   "result": {
-    "item": "the_eom_mod:steam",
+    "item": "the_eom_mod:earthquake",
     "count": 2
   }
 }

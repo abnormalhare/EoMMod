@@ -3,6 +3,12 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
+      "item": "the_eom_mod:air"
+    },
+    {
+      "item": "the_eom_mod:earth"
+    },
+    {
       "item": "the_eom_mod:fire"
     },
     {
@@ -10,7 +16,7 @@
     }
   ],
   "result": {
-    "item": "the_eom_mod:steam",
-    "count": 2
+    "item": "the_eom_mod:elements",
+    "count": 1
   }
 }
