@@ -432,6 +432,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "ice_r"
+    },
+    {
+      "name": "BlackHole",
+      "type": "item",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_hole"
+    },
+    {
+      "name": "BlackHoleR",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_hole_r"
     }
   ],
   "variable_elements": [],
@@ -444,12 +462,13 @@
       "item.the_eom_mod.hydraulics": "Hydraulics",
       "item.the_eom_mod.steam": "Steam",
       "item.the_eom_mod.the_flintstones": "The Flintstones",
+      "item.the_eom_mod.black_hole": "Black Hole",
       "item.the_eom_mod.earth": "Earth",
       "item.the_eom_mod.puddle": "Puddle",
       "item.the_eom_mod.lava": "Lava",
       "item.the_eom_mod.cold": "Cold",
-      "item.the_eom_mod.gravel_element": "Gravel Element",
       "item.the_eom_mod.rock": "Rock",
+      "item.the_eom_mod.gravel_element": "Gravel Element",
       "item.the_eom_mod.water": "Water",
       "item.the_eom_mod.dust": "Dust",
       "item.the_eom_mod.fire": "Fire",
