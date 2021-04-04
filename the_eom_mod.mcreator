@@ -360,6 +360,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "steam_r"
+    },
+    {
+      "name": "Cold",
+      "type": "item",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cold"
+    },
+    {
+      "name": "ColdR",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cold_r"
     }
   ],
   "variable_elements": [],
@@ -382,6 +400,7 @@
       "item.the_eom_mod.wind": "Wind",
       "item.the_eom_mod.puddle": "Puddle",
       "item.the_eom_mod.lava": "Lava",
+      "item.the_eom_mod.cold": "Cold",
       "item.the_eom_mod.gravity": "Gravity",
       "item.the_eom_mod.rock": "Rock",
       "item.the_eom_mod.gravel_element": "Gravel Element",
