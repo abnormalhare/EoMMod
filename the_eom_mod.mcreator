@@ -342,6 +342,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "hydraulics_r"
+    },
+    {
+      "name": "Steam",
+      "type": "item",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steam"
+    },
+    {
+      "name": "SteamR",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steam_r"
     }
   ],
   "variable_elements": [],
@@ -356,6 +374,7 @@
       "item.the_eom_mod.air": "Air",
       "item.the_eom_mod.flint_element": "Flint Element",
       "item.the_eom_mod.hydraulics": "Hydraulics",
+      "item.the_eom_mod.steam": "Steam",
       "item.the_eom_mod.the_flintstones": "The Flintstones",
       "item.the_eom_mod.energy": "Energy",
       "item.the_eom_mod.pressure": "Pressure",
