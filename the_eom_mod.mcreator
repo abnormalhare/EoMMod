@@ -450,6 +450,60 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "black_hole_r"
+    },
+    {
+      "name": "Singularity",
+      "type": "item",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "singularity"
+    },
+    {
+      "name": "SingularityR",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "singularity_r"
+    },
+    {
+      "name": "Wormhole",
+      "type": "item",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wormhole"
+    },
+    {
+      "name": "WormholeR",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wormhole_r"
+    },
+    {
+      "name": "Portal",
+      "type": "item",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "portal"
+    },
+    {
+      "name": "PortalR",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "portal_r"
     }
   ],
   "variable_elements": [],
@@ -471,12 +525,15 @@
       "item.the_eom_mod.gravel_element": "Gravel Element",
       "item.the_eom_mod.water": "Water",
       "item.the_eom_mod.dust": "Dust",
+      "item.the_eom_mod.wormhole": "Wormhole",
       "item.the_eom_mod.fire": "Fire",
       "item.the_eom_mod.heat": "Heat",
       "item.the_eom_mod.ice": "Ice",
       "item.the_eom_mod.air": "Air",
+      "item.the_eom_mod.singularity": "Singularity",
       "item.the_eom_mod.energy": "Energy",
       "item.the_eom_mod.pressure": "Pressure",
+      "item.the_eom_mod.portal": "Portal",
       "item.the_eom_mod.wind": "Wind",
       "item.the_eom_mod.earthquake": "Earthquake",
       "item.the_eom_mod.gravity": "Gravity",
