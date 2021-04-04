@@ -504,6 +504,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "portal_r"
+    },
+    {
+      "name": "Mud",
+      "type": "item",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mud"
+    },
+    {
+      "name": "MudR",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mud_r"
     }
   ],
   "variable_elements": [],
@@ -513,8 +531,8 @@
       "itemGroup.tabeom_mod": "EoM Mod",
       "item.the_eom_mod.elements": "Elements",
       "item.the_eom_mod.flint_element": "Flint Element",
-      "item.the_eom_mod.hydraulics": "Hydraulics",
       "item.the_eom_mod.steam": "Steam",
+      "item.the_eom_mod.hydraulics": "Hydraulics",
       "item.the_eom_mod.the_flintstones": "The Flintstones",
       "item.the_eom_mod.black_hole": "Black Hole",
       "item.the_eom_mod.earth": "Earth",
@@ -535,6 +553,7 @@
       "item.the_eom_mod.pressure": "Pressure",
       "item.the_eom_mod.portal": "Portal",
       "item.the_eom_mod.wind": "Wind",
+      "item.the_eom_mod.mud": "Mud",
       "item.the_eom_mod.earthquake": "Earthquake",
       "item.the_eom_mod.gravity": "Gravity",
       "item.the_eom_mod.sand_element": "Sand Element"
