@@ -1,0 +1,16 @@
+{
+  "group": "the_eom_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_eom_mod:portal"
+    },
+    {
+      "item": "the_eom_mod:portal"
+    }
+  ],
+  "result": {
+    "item": "the_eom_mod:infinite_portal_loop",
+    "count": 2
+  }
+}
