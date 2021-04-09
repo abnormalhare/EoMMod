@@ -10,10 +10,10 @@
     "recipeShapeless": true,
     "recipeSlots": [
       {
-        "value": "CUSTOM:Water"
+        "value": "CUSTOM:Singularity"
       },
       {
-        "value": "CUSTOM:Water"
+        "value": "CUSTOM:Singularity"
       },
       {
         "value": ""
@@ -38,9 +38,9 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:Puddle"
+      "value": "CUSTOM:Wormhole"
     },
-    "name": "puddle_r",
+    "name": "wormhole_r",
     "namespace": "mod"
   }
 }

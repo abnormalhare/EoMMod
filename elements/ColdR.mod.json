@@ -13,7 +13,7 @@
         "value": "CUSTOM:Water"
       },
       {
-        "value": "CUSTOM:Water"
+        "value": "CUSTOM:Air"
       },
       {
         "value": ""
@@ -38,9 +38,9 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:Puddle"
+      "value": "CUSTOM:Cold"
     },
-    "name": "puddle_r",
+    "name": "cold_r",
     "namespace": "mod"
   }
 }

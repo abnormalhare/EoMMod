@@ -10,7 +10,7 @@
     "recipeShapeless": true,
     "recipeSlots": [
       {
-        "value": "CUSTOM:Water"
+        "value": "CUSTOM:Fire"
       },
       {
         "value": "CUSTOM:Water"
@@ -38,9 +38,9 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:Puddle"
+      "value": "CUSTOM:Steam"
     },
-    "name": "puddle_r",
+    "name": "steam_r",
     "namespace": "mod"
   }
 }

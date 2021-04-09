@@ -6,11 +6,11 @@
       "item": "the_eom_mod:water"
     },
     {
-      "item": "the_eom_mod:water"
+      "item": "the_eom_mod:air"
     }
   ],
   "result": {
-    "item": "the_eom_mod:puddle",
+    "item": "the_eom_mod:cold",
     "count": 2
   }
 }

@@ -10,16 +10,16 @@
     "recipeShapeless": true,
     "recipeSlots": [
       {
-        "value": "CUSTOM:Water"
+        "value": "CUSTOM:Air"
+      },
+      {
+        "value": "CUSTOM:Earth"
+      },
+      {
+        "value": "CUSTOM:Fire"
       },
       {
         "value": "CUSTOM:Water"
-      },
-      {
-        "value": ""
-      },
-      {
-        "value": ""
       },
       {
         "value": ""
@@ -38,9 +38,9 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:Puddle"
+      "value": "CUSTOM:Elements"
     },
-    "name": "puddle_r",
+    "name": "elements_r",
     "namespace": "mod"
   }
 }

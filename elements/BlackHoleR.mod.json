@@ -10,10 +10,10 @@
     "recipeShapeless": true,
     "recipeSlots": [
       {
-        "value": "CUSTOM:Water"
+        "value": "CUSTOM:Gravity"
       },
       {
-        "value": "CUSTOM:Water"
+        "value": "CUSTOM:Gravity"
       },
       {
         "value": ""
@@ -38,9 +38,9 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:Puddle"
+      "value": "CUSTOM:BlackHole"
     },
-    "name": "puddle_r",
+    "name": "black_hole_r",
     "namespace": "mod"
   }
 }

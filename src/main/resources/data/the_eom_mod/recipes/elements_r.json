@@ -3,14 +3,20 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "the_eom_mod:water"
+      "item": "the_eom_mod:air"
+    },
+    {
+      "item": "the_eom_mod:earth"
+    },
+    {
+      "item": "the_eom_mod:fire"
     },
     {
       "item": "the_eom_mod:water"
     }
   ],
   "result": {
-    "item": "the_eom_mod:puddle",
+    "item": "the_eom_mod:elements",
     "count": 2
   }
 }

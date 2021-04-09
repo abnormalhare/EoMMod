@@ -3,14 +3,14 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "the_eom_mod:water"
+      "item": "the_eom_mod:wormhole"
     },
     {
-      "item": "the_eom_mod:water"
+      "item": "the_eom_mod:wormhole"
     }
   ],
   "result": {
-    "item": "the_eom_mod:puddle",
+    "item": "the_eom_mod:portal",
     "count": 2
   }
 }

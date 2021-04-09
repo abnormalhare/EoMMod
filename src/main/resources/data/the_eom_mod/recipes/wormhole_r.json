@@ -3,14 +3,14 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "the_eom_mod:water"
+      "item": "the_eom_mod:singularity"
     },
     {
-      "item": "the_eom_mod:water"
+      "item": "the_eom_mod:singularity"
     }
   ],
   "result": {
-    "item": "the_eom_mod:puddle",
+    "item": "the_eom_mod:wormhole",
     "count": 2
   }
 }
