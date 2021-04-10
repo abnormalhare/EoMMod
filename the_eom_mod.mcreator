@@ -522,6 +522,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "mud_r"
+    },
+    {
+      "name": "InfinitePortalLoop",
+      "type": "item",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infinite_portal_loop"
+    },
+    {
+      "name": "InfinitePortalLoopR",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infinite_portal_loop_r"
     }
   ],
   "variable_elements": [],
@@ -544,6 +562,7 @@
       "item.the_eom_mod.water": "Water",
       "item.the_eom_mod.dust": "Dust",
       "item.the_eom_mod.wormhole": "Wormhole",
+      "item.the_eom_mod.infinite_portal_loop": "Infinite Portal Loop",
       "item.the_eom_mod.fire": "Fire",
       "item.the_eom_mod.heat": "Heat",
       "item.the_eom_mod.ice": "Ice",
