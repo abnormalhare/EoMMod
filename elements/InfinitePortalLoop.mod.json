@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "portal",
+    "texture": "infiniteportalloop",
     "customModelName": "Normal",
     "name": "Infinite Portal Loop",
     "rarity": "COMMON",
