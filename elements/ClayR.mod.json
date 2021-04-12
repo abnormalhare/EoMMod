@@ -38,7 +38,7 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:ClayElement"
+      "value": "CUSTOM:Clay"
     },
     "name": "clay_r",
     "namespace": "mod"

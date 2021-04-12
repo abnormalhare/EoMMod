@@ -641,6 +641,15 @@
       "registry_name": "black_hole_r_2"
     },
     {
+      "name": "GlassR",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glass_r"
+    },
+    {
       "name": "GlassElement",
       "type": "item",
       "sortid": 72,
@@ -650,13 +659,13 @@
       "registry_name": "glass_element"
     },
     {
-      "name": "GlassR",
-      "type": "recipe",
-      "sortid": 73,
+      "name": "ClayElement",
+      "type": "item",
+      "sortid": 76,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "glass_r"
+      "registry_name": "clay_element"
     },
     {
       "name": "Lens",
@@ -677,13 +686,13 @@
       "registry_name": "lens_r"
     },
     {
-      "name": "ClayElement",
+      "name": "Clay",
       "type": "item",
-      "sortid": 76,
+      "sortid": 72,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "clay_element"
+      "registry_name": "clay"
     },
     {
       "name": "ClayR",
@@ -724,14 +733,11 @@
       "item.the_eom_mod.heat": "Heat",
       "item.the_eom_mod.ice": "Ice",
       "item.the_eom_mod.air": "Air",
-      "item.the_eom_mod.clay_element": "Clay",
       "item.the_eom_mod.singularity": "Singularity",
-      "item.the_eom_mod.lens": "Lens",
       "item.the_eom_mod.energy": "Energy",
       "item.the_eom_mod.pressure": "Pressure",
       "item.the_eom_mod.portal": "Portal",
       "item.the_eom_mod.wind": "Wind",
-      "item.the_eom_mod.glass_element": "Glass",
       "item.the_eom_mod.mud": "Mud",
       "item.the_eom_mod.earthquake": "Earthquake",
       "item.the_eom_mod.death": "Death",

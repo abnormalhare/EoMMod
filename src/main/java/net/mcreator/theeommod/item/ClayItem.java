@@ -2,13 +2,13 @@
 package net.mcreator.theeommod.item;
 
 @TheEomModModElements.ModElement.Tag
-public class LensItem extends TheEomModModElements.ModElement {
+public class ClayItem extends TheEomModModElements.ModElement {
 
-	@ObjectHolder("the_eom_mod:lens")
+	@ObjectHolder("the_eom_mod:clay")
 	public static final Item block = null;
 
-	public LensItem(TheEomModModElements instance) {
-		super(instance, 74);
+	public ClayItem(TheEomModModElements instance) {
+		super(instance, 72);
 
 	}
 
@@ -20,8 +20,8 @@ public class LensItem extends TheEomModModElements.ModElement {
 	public static class ItemCustom extends Item {
 
 		public ItemCustom() {
-			super(new Item.Properties().group(ItemGroup.MISC).maxStackSize(64).rarity(Rarity.COMMON));
-			setRegistryName("lens");
+			super(new Item.Properties().group(EomModItemGroup.tab).maxStackSize(64).rarity(Rarity.COMMON));
+			setRegistryName("clay");
 		}
 
 		@Override
