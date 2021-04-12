@@ -1,0 +1,16 @@
+{
+  "group": "the_eom_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_eom_mod:pressure"
+    },
+    {
+      "item": "the_eom_mod:pressure"
+    }
+  ],
+  "result": {
+    "item": "the_eom_mod:black_hole",
+    "count": 2
+  }
+}
