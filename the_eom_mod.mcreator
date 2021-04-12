@@ -639,14 +639,32 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "black_hole_r_2"
+    },
+    {
+      "name": "Clay",
+      "type": "item",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clay"
+    },
+    {
+      "name": "ClayR",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clay_r"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.the_eom_mod.space": "Space",
       "itemGroup.tabeom_mod": "EoM Mod",
+      "item.the_eom_mod.space": "Space",
       "item.the_eom_mod.nothing": "Nothing",
       "item.the_eom_mod.elements": "Elements",
       "item.the_eom_mod.flint_element": "Flint",
@@ -654,6 +672,7 @@
       "item.the_eom_mod.steam": "Steam",
       "item.the_eom_mod.the_flintstones": "The Flintstones",
       "item.the_eom_mod.black_hole": "Black Hole",
+      "item.the_eom_mod.clay": "Clay",
       "item.the_eom_mod.earth": "Earth",
       "item.the_eom_mod.trap": "Trap",
       "item.the_eom_mod.puddle": "Puddle",
