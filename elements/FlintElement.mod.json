@@ -5,7 +5,7 @@
     "renderType": 0,
     "texture": "flint",
     "customModelName": "Normal",
-    "name": "Flint Element",
+    "name": "Flint",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "CUSTOM:EomMod"

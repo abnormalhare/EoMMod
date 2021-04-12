@@ -5,7 +5,7 @@
     "renderType": 0,
     "texture": "gravel",
     "customModelName": "Normal",
-    "name": "Gravel Element",
+    "name": "Gravel",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "CUSTOM:EomMod"

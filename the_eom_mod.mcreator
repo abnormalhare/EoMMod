@@ -645,11 +645,11 @@
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.the_eom_mod.space": "Space",
       "itemGroup.tabeom_mod": "EoM Mod",
+      "item.the_eom_mod.space": "Space",
       "item.the_eom_mod.nothing": "Nothing",
       "item.the_eom_mod.elements": "Elements",
-      "item.the_eom_mod.flint_element": "Flint Element",
+      "item.the_eom_mod.flint_element": "Flint",
       "item.the_eom_mod.hydraulics": "Hydraulics",
       "item.the_eom_mod.steam": "Steam",
       "item.the_eom_mod.the_flintstones": "The Flintstones",
@@ -660,7 +660,7 @@
       "item.the_eom_mod.lava": "Lava",
       "item.the_eom_mod.cold": "Cold",
       "item.the_eom_mod.rock": "Rock",
-      "item.the_eom_mod.gravel_element": "Gravel Element",
+      "item.the_eom_mod.gravel_element": "Gravel",
       "item.the_eom_mod.water": "Water",
       "item.the_eom_mod.dust": "Dust",
       "item.the_eom_mod.wormhole": "Wormhole",
