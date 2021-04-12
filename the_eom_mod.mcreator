@@ -659,15 +659,6 @@
       "registry_name": "glass_element"
     },
     {
-      "name": "ClayElement",
-      "type": "item",
-      "sortid": 76,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "clay_element"
-    },
-    {
       "name": "Lens",
       "type": "item",
       "sortid": 74,
@@ -708,8 +699,8 @@
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.the_eom_mod.space": "Space",
       "itemGroup.tabeom_mod": "EoM Mod",
+      "item.the_eom_mod.space": "Space",
       "item.the_eom_mod.nothing": "Nothing",
       "item.the_eom_mod.elements": "Elements",
       "item.the_eom_mod.flint_element": "Flint",
@@ -717,6 +708,7 @@
       "item.the_eom_mod.steam": "Steam",
       "item.the_eom_mod.the_flintstones": "The Flintstones",
       "item.the_eom_mod.black_hole": "Black Hole",
+      "item.the_eom_mod.clay": "Clay",
       "item.the_eom_mod.earth": "Earth",
       "item.the_eom_mod.trap": "Trap",
       "item.the_eom_mod.puddle": "Puddle",
@@ -734,10 +726,12 @@
       "item.the_eom_mod.ice": "Ice",
       "item.the_eom_mod.air": "Air",
       "item.the_eom_mod.singularity": "Singularity",
+      "item.the_eom_mod.lens": "Lens",
       "item.the_eom_mod.energy": "Energy",
       "item.the_eom_mod.pressure": "Pressure",
       "item.the_eom_mod.portal": "Portal",
       "item.the_eom_mod.wind": "Wind",
+      "item.the_eom_mod.glass_element": "Glass",
       "item.the_eom_mod.mud": "Mud",
       "item.the_eom_mod.earthquake": "Earthquake",
       "item.the_eom_mod.death": "Death",

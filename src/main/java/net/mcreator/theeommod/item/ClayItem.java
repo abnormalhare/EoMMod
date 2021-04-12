@@ -1,24 +1,29 @@
 
 package net.mcreator.theeommod.item;
 
+import net.minecraftforge.registries.ObjectHolder;
+
+import net.minecraft.item.Rarity;
+import net.minecraft.item.ItemStack;
+import net.minecraft.item.Item;
+import net.minecraft.block.BlockState;
+
+import net.mcreator.theeommod.itemgroup.EomModItemGroup;
+import net.mcreator.theeommod.TheEomModModElements;
+
 @TheEomModModElements.ModElement.Tag
 public class ClayItem extends TheEomModModElements.ModElement {
-
 	@ObjectHolder("the_eom_mod:clay")
 	public static final Item block = null;
-
 	public ClayItem(TheEomModModElements instance) {
 		super(instance, 72);
-
 	}
 
 	@Override
 	public void initElements() {
 		elements.items.add(() -> new ItemCustom());
 	}
-
 	public static class ItemCustom extends Item {
-
 		public ItemCustom() {
 			super(new Item.Properties().group(EomModItemGroup.tab).maxStackSize(64).rarity(Rarity.COMMON));
 			setRegistryName("clay");
@@ -38,7 +43,5 @@ public class ClayItem extends TheEomModModElements.ModElement {
 		public float getDestroySpeed(ItemStack par1ItemStack, BlockState par2Block) {
 			return 1F;
 		}
-
 	}
-
 }
