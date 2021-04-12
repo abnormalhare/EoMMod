@@ -1,0 +1,16 @@
+{
+  "group": "the_eom_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_eom_mod:glass_element"
+    },
+    {
+      "item": "the_eom_mod:heat"
+    }
+  ],
+  "result": {
+    "item": "the_eom_mod:lens",
+    "count": 2
+  }
+}
