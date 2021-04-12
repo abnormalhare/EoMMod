@@ -645,8 +645,8 @@
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "itemGroup.tabeom_mod": "EoM Mod",
       "item.the_eom_mod.space": "Space",
+      "itemGroup.tabeom_mod": "EoM Mod",
       "item.the_eom_mod.nothing": "Nothing",
       "item.the_eom_mod.elements": "Elements",
       "item.the_eom_mod.flint_element": "Flint",
