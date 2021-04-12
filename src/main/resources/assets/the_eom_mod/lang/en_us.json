@@ -1,9 +1,11 @@
 {
   "itemGroup.tabeom_mod": "EoM Mod",
+  "item.the_eom_mod.space": "Space",
+  "item.the_eom_mod.nothing": "Nothing",
   "item.the_eom_mod.elements": "Elements",
   "item.the_eom_mod.flint_element": "Flint Element",
-  "item.the_eom_mod.steam": "Steam",
   "item.the_eom_mod.hydraulics": "Hydraulics",
+  "item.the_eom_mod.steam": "Steam",
   "item.the_eom_mod.the_flintstones": "The Flintstones",
   "item.the_eom_mod.black_hole": "Black Hole",
   "item.the_eom_mod.earth": "Earth",
@@ -18,6 +20,7 @@
   "item.the_eom_mod.wormhole": "Wormhole",
   "item.the_eom_mod.infinite_portal_loop": "Infinite Portal Loop",
   "item.the_eom_mod.fire": "Fire",
+  "item.the_eom_mod.extinction": "Extinction",
   "item.the_eom_mod.heat": "Heat",
   "item.the_eom_mod.ice": "Ice",
   "item.the_eom_mod.air": "Air",
@@ -28,6 +31,7 @@
   "item.the_eom_mod.wind": "Wind",
   "item.the_eom_mod.mud": "Mud",
   "item.the_eom_mod.earthquake": "Earthquake",
+  "item.the_eom_mod.death": "Death",
   "item.the_eom_mod.gravity": "Gravity",
   "item.the_eom_mod.sand_element": "Sand Element"
 }

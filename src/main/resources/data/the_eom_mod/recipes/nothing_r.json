@@ -1,0 +1,16 @@
+{
+  "group": "the_eom_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_eom_mod:extinction"
+    },
+    {
+      "item": "the_eom_mod:extinction"
+    }
+  ],
+  "result": {
+    "item": "the_eom_mod:nothing",
+    "count": 2
+  }
+}

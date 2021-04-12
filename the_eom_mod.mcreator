@@ -558,6 +558,78 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "trap_r"
+    },
+    {
+      "name": "Death",
+      "type": "item",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "death"
+    },
+    {
+      "name": "DeathR",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "death_r"
+    },
+    {
+      "name": "Extinction",
+      "type": "item",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "extinction"
+    },
+    {
+      "name": "ExtinctionR",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "extinction_r"
+    },
+    {
+      "name": "Nothing",
+      "type": "item",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nothing"
+    },
+    {
+      "name": "NothingR",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nothing_r"
+    },
+    {
+      "name": "Space",
+      "type": "item",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "space"
+    },
+    {
+      "name": "SpaceR",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "space_r"
     }
   ],
   "variable_elements": [],
@@ -565,10 +637,12 @@
   "language_map": {
     "en_us": {
       "itemGroup.tabeom_mod": "EoM Mod",
+      "item.the_eom_mod.space": "Space",
+      "item.the_eom_mod.nothing": "Nothing",
       "item.the_eom_mod.elements": "Elements",
       "item.the_eom_mod.flint_element": "Flint Element",
-      "item.the_eom_mod.steam": "Steam",
       "item.the_eom_mod.hydraulics": "Hydraulics",
+      "item.the_eom_mod.steam": "Steam",
       "item.the_eom_mod.the_flintstones": "The Flintstones",
       "item.the_eom_mod.black_hole": "Black Hole",
       "item.the_eom_mod.earth": "Earth",
@@ -583,6 +657,7 @@
       "item.the_eom_mod.wormhole": "Wormhole",
       "item.the_eom_mod.infinite_portal_loop": "Infinite Portal Loop",
       "item.the_eom_mod.fire": "Fire",
+      "item.the_eom_mod.extinction": "Extinction",
       "item.the_eom_mod.heat": "Heat",
       "item.the_eom_mod.ice": "Ice",
       "item.the_eom_mod.air": "Air",
@@ -593,6 +668,7 @@
       "item.the_eom_mod.wind": "Wind",
       "item.the_eom_mod.mud": "Mud",
       "item.the_eom_mod.earthquake": "Earthquake",
+      "item.the_eom_mod.death": "Death",
       "item.the_eom_mod.gravity": "Gravity",
       "item.the_eom_mod.sand_element": "Sand Element"
     }
